@@ -1,0 +1,5 @@
+	To run python codes:
+
+1. Keras environment needed
+2. Both CSV and excel dataset should be copied to the same folder as python file. 
+3. All other comments are made in the code section as well. 
